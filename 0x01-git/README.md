@@ -1,1 +1,1 @@
-This project is a 0x01-git project
+This project is about 0x01-git
